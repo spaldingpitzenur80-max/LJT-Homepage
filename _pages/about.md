@@ -11,7 +11,7 @@ I am a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University o
 
 I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also advised by Professor Junxian He during my undergraduate studies.
 
-You can find my [publications](/publications/) and [CV](/cv/) on this site, as well as a list of my papers on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+You can find my [publications](publications/) and [CV](cv/) on this site, as well as a list of my papers on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Research Interests
 
